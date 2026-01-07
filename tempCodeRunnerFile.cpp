@@ -1,0 +1,1 @@
+      // minElement=min(minElement,arr[i]);
