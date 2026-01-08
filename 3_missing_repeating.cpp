@@ -17,21 +17,6 @@ int main()
             cout<<"it is repeating numbeer"<<x.first<<" ";
         }
     }
-    // for(auto y:mp)
-    // {
-    //     if(y.second==0)
-    //     {
-    //         cout<<"missing number << y.second " ";
-    //     }
-    // }
-
-// can not finding the missing because if there is not element then it will not map 
-    // for(auto y:mp)
-    // {
-    //     if(y.second==0)
-    //     {
-    //         cout<<y.first<<" " ;
-    //     }
-    // }
+  
     return 0;
 }
